@@ -49,6 +49,8 @@ Key Business Questions to Solve:
 - ✅ Are customers with lower credit scores more likely to churn?
 - ✅ Does tenure (years with the bank) influence churn rates?
 
+- Interactive dashboard: https://tinyurl.com/yse4wbj2
+
 ## Data Cleaning
 
 -	Renaming of table
